@@ -154,11 +154,19 @@ Users can quickly filter events by time.
 
 ## Location
 
-Users can search by location using:
+Users will be able to discover events based on how close they are to their current location.
 
-- City
-- Province / State
-- Country
+For Example: 
+- Within 5 km
+- Within 10 km
+- Within 25 km
+- Within 50 km
+- Within 100 km
+- Anywhere
+
+The map will automatically display events that fall within the selected distance.
+
+For online events, the location filter will not be needed, since anyone can attend regardless of where they are.
 
 ## Duration
 
