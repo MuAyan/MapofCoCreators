@@ -168,16 +168,25 @@ The map will automatically display events that fall within the selected distance
 
 For online events, the location filter will not be needed, since anyone can attend regardless of where they are.
 
-## Duration
+## Session Duration
 
-Users can also filter based on how much time they have available.
+Users can filter events based on how long each session lasts.
 
-- 30 Minutes
-- 1 Hour
+- Up to 1 Hour
+- 2 Hours
+- 3 Hours
 - Half Day
 - Full Day
-- Weekend
-- Multi-Day
+
+---
+
+## Event Commitment
+
+Users can filter events based on the overall commitment required.
+
+- One-Time Event
+- Multiple Sessions
+- Ongoing
 
 ## People Filters
 
