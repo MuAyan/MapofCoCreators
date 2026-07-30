@@ -188,6 +188,19 @@ Users can filter events based on the overall commitment required.
 - Multiple Sessions
 - Ongoing
 
+## Language 
+Users can filter events based on the language they will be conducted in. 
+
+Examples include:
+- English 
+- Spanish 
+- French 
+- Arabic 
+- Hindi 
+- Mandarin 
+- Urdu 
+- Other 
+
 ## People Filters
 
 When searching for people, users can also filter by:
